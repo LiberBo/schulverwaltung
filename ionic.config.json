@@ -1,0 +1,8 @@
+{
+  "name": "Schulverwaltung",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "cf425a3c"
+}
